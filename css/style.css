@@ -461,7 +461,7 @@ h3.tittle-w3l span {
 .snipcart-details input.button {
     font-size: 13px;
     color: #fff;
-    background: #0879c9;
+    background: #12b5bd;
     text-decoration: none;
     border: none;
     border-radius: 0;
@@ -826,7 +826,7 @@ h3.tittle-w3l span {
 }
 
 .search-hotel form input[type="submit"] {
-    background: url(../images/search.png) no-repeat 13px 11px #0879c9;
+    background: url(../images/search.png) no-repeat 13px 11px #08c6c9;
     width: 44px;
     height: 39px;
     border: none;
